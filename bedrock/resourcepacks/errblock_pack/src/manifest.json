@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "err.block pack",
+    "description": "something is wrong",
+    "uuid": "e1b3c9a2-7f4a-4d2a-9c1b-1234567890ab",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a7d92f4e-3c8b-4a6f-b2e1-abcdef123456",
+      "version": [1, 0, 0]
+    }
+  ]
+}
