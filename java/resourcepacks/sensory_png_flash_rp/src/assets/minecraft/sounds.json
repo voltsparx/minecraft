@@ -1,0 +1,11 @@
+{
+  "sensory.s1": {
+    "sounds": ["sensory/s1"]
+  },
+  "sensory.s2": {
+    "sounds": ["sensory/s2"]
+  },
+  "sensory.s3": {
+    "sounds": ["sensory/s3"]
+  }
+}
